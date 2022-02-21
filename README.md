@@ -2,6 +2,8 @@
 
 Repositório para o trabalho de ML 2021/2
 
+Disponível em [Gradiente Descendente](https://gui-lisboa.github.io/GradienteDescedente/intro.html)
+
 ## Alunos
 
 - Esdras
